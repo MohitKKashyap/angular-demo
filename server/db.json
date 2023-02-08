@@ -1,0 +1,170 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Brad Gibson",
+      "company": "Amezone",
+      "email": "brad@gmail.com",
+      "title": "Youtuber",
+      "mobile": "9876546787",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JPZplUxOpoV6c5xoYOuplXnqRVhy9iRo8XrElPYFZQwoWYrkYg9-MFsCkPncjZSUv64&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Glenda Kim",
+      "company": "HCL Technologies",
+      "email": "glenda@gmail.com",
+      "title": "freelancer",
+      "mobile": "8880009991",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQS9kHPz8_G0K4ExYiRi8vvtnpwvbj1TE2E3fL9o341EPhlAI5V7MKIT_N0iBMS7OlTk&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Vladeen Min",
+      "company": "Service",
+      "email": "vladeen@gmail.com",
+      "title": "Electrician",
+      "mobile": "9876546787",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQQTS4NPqnCGbJPd4x7O_YJNOJ5gH6KkejH3nhVfIhxwwJPHEotjPs0VCpGg-UcybvxM&usqp=CAU",
+      "groupId": "4"
+    },
+    {
+      "name": "Rajan",
+      "photo": "https://picsum.photos/200",
+      "mobile": "9090909090",
+      "email": "rajan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    },
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "company": "Acme Inc.",
+      "mobile": "1234567890",
+      "title": "Software Engineer",
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+      "groupId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "company": "Google",
+      "mobile": "2345678901",
+      "title": "Product Manager",
+      "photo": "https://randomuser.me/api/portraits/women/1.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Jim Brown",
+      "email": "jim.brown@example.com",
+      "company": "Microsoft",
+      "mobile": "3456789012",
+      "title": "Data Scientist",
+      "photo": "https://randomuser.me/api/portraits/men/2.jpg",
+      "groupId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Lisa Smith",
+      "email": "lisa.smith@example.com",
+      "company": "Apple",
+      "mobile": "4567890123",
+      "title": "UX Designer",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "5",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "company": "Acme Inc.",
+      "mobile": "5678901234",
+      "title": "Web Developer",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "6",
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "company": "Google",
+      "mobile": "6789012345",
+      "title": "Product Manager",
+      "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+      "groupId": "1"
+    },
+    {
+      "id": "7",
+      "name": "William Smith",
+      "email": "william.smith@example.com",
+      "company": "Microsoft",
+      "mobile": "7890123456",
+      "title": "Data Analyst",
+      "photo": "https://randomuser.me/api/portraits/men/4.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "8",
+      "name": "Ashley Johnson",
+      "email": "ashley.johnson@example.com",
+      "company": "Apple",
+      "mobile": "8901234567",
+      "title": "Software Engineer",
+      "photo": "https://randomuser.me/api/portraits/women/4.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "9",
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "company": "Acme Inc.",
+      "mobile": "9012345678",
+      "title": "Product Designer",
+      "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+      "groupId": "1"
+    },
+    {
+      "id": "10",
+      "name": "Elizabeth Davis",
+      "email": "elizabeth.davis@example.com",
+      "company": "Google",
+      "mobile": "0123456789",
+      "title": "Data Scientist",
+      "photo": "https://randomuser.me/api/portraits/women/5.jpg",
+      "groupId": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
